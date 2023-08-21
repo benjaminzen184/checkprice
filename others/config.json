@@ -1,0 +1,13 @@
+{
+    "wss": "wss://bignosecripto:B8u5c2k0@apis-sj.ankr.com/wss/f5c392b93e464489934bbce858590c44/e6bb1e9e36c9f27a93e5664af926da91/binance/full/main",
+    "wss2": "wss://bsc-ws-node.nariox.org:443",
+    "testnet": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+    "http": "https://bsc-mainnet.web3api.com/v1/6SS9BYYU5PY4Q1BY3QN97SJCJXUDA64Z6F",
+    "httpbsc": "https://bsc-dataseed.binance.org/",
+
+
+    "privatekey": "",
+    "publickey": ""
+
+  }
+  
